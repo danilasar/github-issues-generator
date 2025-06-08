@@ -1,0 +1,13 @@
+owner = "danilasar"
+repo = "test_repo"
+
+[[issues]]
+title = "Добавить документацию"
+body = "Необходимо создать подробную документацию для API"
+labels = ["documentation"]
+
+[[issues]]
+title = "Исправить ошибку авторизации"
+body = "Пользователи не могут войти через OAuth"
+labels = ["bug", "high-priority"]
+assignee = "danilasar"
